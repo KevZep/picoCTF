@@ -11,4 +11,5 @@ Solutions for the CTF Challenge  Write-ups and solutions to several CTF problems
 
 ![image](https://github.com/user-attachments/assets/07fee19e-e085-438a-8a26-71fe6906cbaf)
 ![image](https://github.com/user-attachments/assets/09460c81-65f8-4c0f-9e34-e65b56fab886)
-![image](https://github.com/user-attachments/assets/c076eff8-2a62-4adf-9139-63163221a7ef)
+![image](https://github.com/user-attachments/assets/7b3b8f11-2ede-4e47-a3e3-5a118a1cbee8)
+
